@@ -1,5 +1,3 @@
-Sarah Holmes (FMT)
-
 # gen711-811-example
 
 ## Project Title  
